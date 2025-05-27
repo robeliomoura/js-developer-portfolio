@@ -46,31 +46,36 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Curso Ministrado na DIO - Super Mario English Challenge",
+      "url": "https://robeliomoura.github.io/jogo-mario/",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Curso Ministrado na DIO - Site para receitas",
+      "url": "https://robeliomoura.github.io/Receitas/",
+      "github": true
+    },
+    {
+      "name": "Curso Ministrado pelo Curso em vídeo - Cordel Moderno",
+      "url": "https://robeliomoura.github.io/projeto-cordel/",
       "github": true
     }
   ],
+
   "professionalExperience": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Controlador de Tráfego - Braspress Transportes Urgentes",
+      "period": "2019 - até o momento",
+      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
+      "name": "Auxiliar de Escritório - TF Transportes Rodoviários",
+      "period": "2010 - 2018",
+      "description": "Foi um grande prazer fazer parte deste time fantástico."
     },
     {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
-    }
-  ]
+      "name": "Auxiliar de Expedição - Transportadora Itapemirim S/A",
+      "period": "1996 - 2009",
+      "description": "Anos incríveis ao lado de pessoas maravilhosas."
+  ],
 }
